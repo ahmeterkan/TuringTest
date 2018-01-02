@@ -1,0 +1,20 @@
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\TuringTest.exe.config
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\TuringTest.exe
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\TuringTest.pdb
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\obj\Debug\TuringTest.csprojResolveAssemblyReference.cache
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\obj\Debug\TuringTest.exe
+c:\users\hamur\documents\visual studio 2017\Projects\TuringTest\TuringTest\obj\Debug\TuringTest.pdb
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\TuringTest.exe.config
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\TuringTest.exe
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\TuringTest.pdb
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamur\Desktop\TuringTest\TuringTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\hamur\Desktop\TuringTest\TuringTest\obj\Debug\TuringTest.csprojResolveAssemblyReference.cache
+C:\Users\hamur\Desktop\TuringTest\TuringTest\obj\Debug\TuringTest.exe
+C:\Users\hamur\Desktop\TuringTest\TuringTest\obj\Debug\TuringTest.pdb
